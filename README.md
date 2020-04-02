@@ -13,5 +13,5 @@
     * 傳送文字訊息
     ![sendMessage](./public/img/sendMessage.png)
 
-    * 傳送位置資訊-傳送目前所在位置的google map url
+    * 傳送位置資訊-傳送目前所在位置的google map url
     ![sendLocation](./public/img/sendLocation.png)
